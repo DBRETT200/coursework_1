@@ -39,7 +39,7 @@ class Dec2Hex
    }
    else
    {
-     System.out.println("Error: No value to convert! Please enter a value")
+     System.out.println("Error: No value to convert! Please enter a value");
    }
  }
 
