@@ -37,7 +37,7 @@ class Dec2Hex
         
         System.out.println("Hexadecimal representation is : " + hexadecimal);
    }
-   else
+   else if (Arg1 == null)
    {
      System.out.println("Error: No value to convert! Please enter a value");
    }
