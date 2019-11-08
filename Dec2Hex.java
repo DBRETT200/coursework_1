@@ -42,4 +42,5 @@ class Dec2Hex
      System.out.println("Error: No value to convert! Please enter a value");
    }
  }
+}
 
